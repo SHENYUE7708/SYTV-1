@@ -283,8 +283,6 @@ AV女優鄰居,https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145a
 合集,http://cdn.adultiptv.net/compilation.m3u8
 綠帽,http://cdn.adultiptv.net/cuckold.m3u8
 戀物,http://cdn.adultiptv.net/fetish.m3u8
-群交,http://cdn.adultiptv.net/gangbang.m3u8
-硬核,http://cdn.adultiptv.net/hardcore.m3u8
 拉丁,http://cdn.adultiptv.net/latina.m3u8
 少婦,http://cdn.adultiptv.net/milf.m3u8
 色星,http://cdn.adultiptv.net/pornstar.m3u8
