@@ -2,19 +2,17 @@
 
 台灣,#genre#
 
-民視,rtmp://59.124.75.138/sat/tv051
+民視,rtmp://59.124.75.150/sat/tv051
 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 
-中視,rtmp://59.124.75.138/sat/tv091
-中視,rtmp://59.124.75.138/sat/tv091
+中視,rtmp://59.124.75.150/sat/tv091
 
-台視,rtmp://59.124.75.138/sat/tv071
-
+台視,rtmp://59.124.75.150/sat/tv071
 
 華視,rtmp://59.124.75.138/sat/tv111
-華視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
 華視,rtmp://59.124.75.138/sat/tv111
+
 
 民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
@@ -25,14 +23,14 @@
 東森戲劇台，http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/33540/index.m3u8
 
 TVBS歡樂,rtmp://59.124.75.150/sat/tv421
-TVBS歡樂台,rtmp://59.124.75.138/sat/tv421
+
 
 MoMo綜合,rtmp://59.124.75.150/sat/tv761
 
 緯來戲劇台,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
 
 緯來育樂,rtmp://59.124.75.150/sat/tv701
-緯來育樂,rtmp://59.124.75.138/sat/tv701
+
 
 緯來日本,rtmp://59.124.75.138/sat/tv771
 
@@ -72,6 +70,7 @@ Discovery,p5p://fccs.123178.top:9906/610b440f00018f2d04303511f19e7e5a.ts
 民視新聞,p5p://fccs.123178.top:9906/61494a92000be20d0d642b3f9739874e
 
 華視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
+華視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
 
 中視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 
@@ -92,8 +91,8 @@ Discovery,p5p://fccs.123178.top:9906/610b440f00018f2d04303511f19e7e5a.ts
 
 年代新聞，http://50.7.218.42:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 
-TVBS新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
-TVBS新聞,rtmp://59.124.75.138/sat/tv551
+TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+
 
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
